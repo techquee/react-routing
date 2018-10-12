@@ -1,6 +1,6 @@
 React-routing boiler plate
+<hr>
 
-
-npm install
-npm run build
-node index.js
+npm install <br/>
+npm run build </br>
+node index.js <br/>
